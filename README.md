@@ -1,1 +1,2 @@
-# c33-plinko-scores-
+
+Boiler plate code for students with comments as hints
